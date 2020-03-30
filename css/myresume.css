@@ -43,7 +43,6 @@ a:active, a:focus, a:hover {
 
 .social-icons a:hover {
 	background-color: #BADA55;
-	backgroung-image: url("img/black-linen-2.png");
 }
 
 .dev-icons .list-inline-item i:hover {
