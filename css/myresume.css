@@ -61,6 +61,8 @@ a:active, a:focus, a:hover {
     width: 250px;
     height: 250px;
     margin: 20px;
+}
+
 .timeline {
   position: relative;
   margin: 0 auto;
