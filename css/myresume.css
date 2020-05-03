@@ -58,9 +58,9 @@ a:active, a:focus, a:hover {
 }
 
 .border {
-    width: 70px;
-    height: 70px;
-    margin: 6px;
+    width: 20%;
+    height: 20%;
+    margin: 10%;
 .timeline {
   position: relative;
   margin: 0 auto;
